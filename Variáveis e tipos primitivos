@@ -1,0 +1,17 @@
+let num_A = 10;
+let num_B = 5;
+
+let resultado_adicao = num_A + num_B;
+console.log("Resultado da adição  " + num_A + " + " + num_B + " = " + resultado_adicao);
+
+let resultado_subtracao = num_A - num_B;
+console.log("Resultado da subtração  " + num_A + " - " + num_B + " = " + resultado_subtracao);
+
+let resultado_multiplicacao = num_A * num_B;
+console.log("Resultado da multiplicação  " + num_A + " x " + num_B + " = " + resultado_multiplicacao);
+
+let resultado_divisao = num_A / num_B;
+console.log("Resultado da divisão  " + num_A + " : " + num_B + " = " + resultado_divisao);
+
+let resultado_modulo = num_A % num_B;
+console.log("Resultado do módulo " + num_A + " e " + num_B + " = " + resultado_modulo);
